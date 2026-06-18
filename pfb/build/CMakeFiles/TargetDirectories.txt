@@ -1,0 +1,3 @@
+/home/wangpp/xm/pfb/build/CMakeFiles/onnx_inference.dir
+/home/wangpp/xm/pfb/build/CMakeFiles/edit_cache.dir
+/home/wangpp/xm/pfb/build/CMakeFiles/rebuild_cache.dir
